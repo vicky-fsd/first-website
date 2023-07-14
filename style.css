@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(232, 232, 232);
+}
+
+.fa{
+    color: rgb(60, 60, 217);
+}
+
+.icon-color{
+    color: #000;
+}
+
+.box-part{
+    background-color: rgb(255, 252, 252);
+    padding: 40px 5px;
+    margin: 30px 0px;
+    border-radius: 5px;
+}
+
+span{
+    font-size: 12px;
+}
+
+a{
+    border-bottom: 1px solid blue;
+}
+
+.box{
+    padding: 60px 0px;
+}
